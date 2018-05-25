@@ -3,6 +3,7 @@
 - [HTTP 404 - Wikipedia](https://en.wikipedia.org/wiki/HTTP_404)
 - [List of HTTP status codes - Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 - [The Perfect 404 - An A List Apart Article](http://alistapart.com/article/perfect404)
+- [The page you requested is no longer here [error 404]](http://alistapart.com/d/perfect404/error.htm)
 
 ### Notes from: 404 Not Found - HTTP | MDN
 
